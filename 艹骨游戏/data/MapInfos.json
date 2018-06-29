@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"graveyard_01","order":1,"parentId":0,"scrollX":829.5,"scrollY":566},
-{"id":2,"expanded":false,"name":"town_01","order":2,"parentId":0,"scrollX":944,"scrollY":1573},
-{"id":3,"expanded":false,"name":"home_05","order":4,"parentId":0,"scrollX":626,"scrollY":498},
-{"id":4,"expanded":false,"name":"home_01","order":3,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"graveyard_01","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"town_01","order":2,"parentId":0,"scrollX":1106,"scrollY":736},
+{"id":3,"expanded":false,"name":"home_05","order":6,"parentId":0,"scrollX":824.6666666666666,"scrollY":536},
+{"id":4,"expanded":false,"name":"home_01","order":3,"parentId":0,"scrollX":824.6666666666666,"scrollY":536},
+{"id":5,"expanded":false,"name":"town_02","order":4,"parentId":0,"scrollX":824.6666666666666,"scrollY":536},
+{"id":6,"expanded":false,"name":"town_03","order":5,"parentId":0,"scrollX":1106,"scrollY":525.3333333333334}
 ]
