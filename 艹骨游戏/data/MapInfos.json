@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"graveyard","order":1,"parentId":0,"scrollX":1521.6,"scrollY":1016.4},
-{"id":2,"expanded":false,"name":"kemorken_north","order":2,"parentId":0,"scrollX":1502.3999999999999,"scrollY":1016.4},
+{"id":1,"expanded":false,"name":"graveyard","order":1,"parentId":0,"scrollX":832,"scrollY":624},
+{"id":2,"expanded":false,"name":"kemorken_north","order":2,"parentId":0,"scrollX":1106,"scrollY":1874.6666666666667},
 null,
-{"id":4,"expanded":false,"name":"undercity","order":6,"parentId":0,"scrollX":1521.6,"scrollY":1016.4},
-{"id":5,"expanded":false,"name":"kemorken_suburban","order":3,"parentId":0,"scrollX":1521.6,"scrollY":1016.4},
-{"id":6,"expanded":false,"name":"kemorken_south","order":4,"parentId":0,"scrollX":1521.6,"scrollY":1016.4},
-{"id":7,"expanded":false,"name":"cheap_apartment","order":5,"parentId":0,"scrollX":1521.6,"scrollY":1016.4}
+{"id":4,"expanded":false,"name":"undercity","order":6,"parentId":0,"scrollX":816.6666666666666,"scrollY":792},
+{"id":5,"expanded":false,"name":"kemorken_suburban","order":3,"parentId":0,"scrollX":824.6666666666666,"scrollY":536},
+{"id":6,"expanded":false,"name":"kemorken_south","order":4,"parentId":0,"scrollX":1106,"scrollY":1042.6666666666667},
+{"id":7,"expanded":false,"name":"cheap_apartment","order":5,"parentId":0,"scrollX":824.6666666666666,"scrollY":536}
 ]
